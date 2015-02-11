@@ -1,0 +1,6 @@
+# ignore key files
+*.txt
+
+*.sublime-project
+*.sublime-workspace
+sftp-config.json
